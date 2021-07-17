@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.54498d5c.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.aab49c09.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.aab49c09.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.f99500e0.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.f99500e0.js.map",
-    "static/js/2.1b20635f.chunk.js": "/react-gh-pages/static/js/2.1b20635f.chunk.js",
-    "static/js/2.1b20635f.chunk.js.map": "/react-gh-pages/static/js/2.1b20635f.chunk.js.map",
-    "static/js/3.6becd6cb.chunk.js": "/react-gh-pages/static/js/3.6becd6cb.chunk.js",
-    "static/js/3.6becd6cb.chunk.js.map": "/react-gh-pages/static/js/3.6becd6cb.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.54498d5c.chunk.css.map": "/react-gh-pages/static/css/main.54498d5c.chunk.css.map",
-    "static/js/2.1b20635f.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.1b20635f.chunk.js.LICENSE.txt",
-    "static/media/CloseIcon.ba3d267d.svg": "/react-gh-pages/static/media/CloseIcon.ba3d267d.svg",
-    "static/media/index.css": "/react-gh-pages/static/media/logo.004f33dc.svg"
+    "main.css": "/static/css/main.5bd8f957.chunk.css",
+    "main.js": "/static/js/main.bb004cf1.chunk.js",
+    "main.js.map": "/static/js/main.bb004cf1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.70b583ef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.70b583ef.js.map",
+    "static/js/2.1b20635f.chunk.js": "/static/js/2.1b20635f.chunk.js",
+    "static/js/2.1b20635f.chunk.js.map": "/static/js/2.1b20635f.chunk.js.map",
+    "static/js/3.6becd6cb.chunk.js": "/static/js/3.6becd6cb.chunk.js",
+    "static/js/3.6becd6cb.chunk.js.map": "/static/js/3.6becd6cb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5bd8f957.chunk.css.map": "/static/css/main.5bd8f957.chunk.css.map",
+    "static/js/2.1b20635f.chunk.js.LICENSE.txt": "/static/js/2.1b20635f.chunk.js.LICENSE.txt",
+    "static/media/CloseIcon.ba3d267d.svg": "/static/media/CloseIcon.ba3d267d.svg",
+    "static/media/index.css": "/static/media/logo.004f33dc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f99500e0.js",
+    "static/js/runtime-main.70b583ef.js",
     "static/js/2.1b20635f.chunk.js",
-    "static/css/main.54498d5c.chunk.css",
-    "static/js/main.aab49c09.chunk.js"
+    "static/css/main.5bd8f957.chunk.css",
+    "static/js/main.bb004cf1.chunk.js"
   ]
 }
